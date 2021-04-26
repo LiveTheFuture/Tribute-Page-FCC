@@ -1,0 +1,57 @@
+#main {
+  background-color: gainsboro;
+  font-family: Verdana, 'Sans-serif';
+  font-size: 0.9em;
+}
+
+.Norman {
+  padding-top: 30px;
+  font-size: 50px;
+  text-align: center;
+}
+
+#title {
+  text-align: center;
+  font-size: 20px;
+}
+
+#img-div{
+  background-color: white;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+  height: auto;
+  max-width: 1000px;
+}
+#img-caption{
+  text-align: center;
+  padding-top: 15px;
+}
+#tribute-info{
+  padding-top: 14px;
+}
+section p {
+  text-align: center;
+}
+#specific-list{
+  margin: 9px;
+}
+#tribute-info {
+  padding: 5px 380px 13px 380px;
+}
+#tribute {
+  padding: 20px 0px -3px 30px;
+  text-align: left;
+}
+
+#footer {
+  text-align: center;
+  padding-right: 60px;
+  font-weight: bold;
+}
+#tribute-link{
+  color: royalblue;
+}
